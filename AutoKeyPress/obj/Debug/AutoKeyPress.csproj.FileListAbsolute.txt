@@ -1,0 +1,7 @@
+C:\localapps\repos\AutoPress\AutoPress\obj\Debug\AutoKeyPress.csprojAssemblyReference.cache
+C:\localapps\repos\AutoPress\AutoPress\obj\Debug\AutoKeyPress.csproj.CoreCompileInputs.cache
+C:\localapps\repos\AutoPress\AutoPress\bin\Debug\AutoKeyPress.exe.config
+C:\localapps\repos\AutoPress\AutoPress\bin\Debug\AutoKeyPress.exe
+C:\localapps\repos\AutoPress\AutoPress\bin\Debug\AutoKeyPress.pdb
+C:\localapps\repos\AutoPress\AutoPress\obj\Debug\AutoKeyPress.exe
+C:\localapps\repos\AutoPress\AutoPress\obj\Debug\AutoKeyPress.pdb
